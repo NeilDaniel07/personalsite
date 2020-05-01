@@ -1,0 +1,173 @@
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.red {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.blue {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profilepic {
+  padding-top: 30px;
+}
+
+.math-img {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.webdev {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.percussion {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.swimming {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.volunteer {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.drums {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.journalism {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.electronics {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.legal {
+  font-size: 5px;
+}
+
+.student {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.myskills {
+  padding-top: 30px;
+}
+
+.middle-container {
+  margin: 100px 0 100px 0;
+}
+
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.myself {
+  width: 30%;
+  margin: 100px auto 100px auto;
+}
+
+.contact {
+  width: 30%;
+  margin: 40px auto 60px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 20px;
+  padding-top: 50px;
+}
+
+a {
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copy {
+  color: #EAF6F6;
+  width: 0.75rem;
+}
